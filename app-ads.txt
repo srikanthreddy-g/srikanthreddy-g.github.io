@@ -1,1 +1,3 @@
+OWNERDOMAIN=srikanthreddy-g.github.io
 google.com, pub-9802577983210672, DIRECT, f08c47fec0942fa0
+ironsrc.com, 701577, DIRECT
